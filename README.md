@@ -41,7 +41,7 @@ Learn by doing is the loudest advice I've heard so far and am going to hone my P
 
 * **[Immediate]** Learn to write pythonic code
 * **[Shorter term, easiest to practice]** Write re-usable, modular, tested code for my data work and knowledge posts
-* **[Medium term, harder to practice]** Achieve efficiency and feature parity on Data Analysis using Python compared to R
+* **[Medium term, harder to practice]** Achieve efficiency and feature parity on Data Analysis using Python
 * **[Longer term, hardest to practice]** Write tools. Be able to work on projects that span the entire data stack using Python while applying good software engineering principles to these projects
 
 ## Project Goals
