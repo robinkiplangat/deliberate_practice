@@ -1,7 +1,7 @@
 # Deliberate Practice
 
-Having being inspired by [robert8138], as advice as of anyone to read [Plateau of Productivity],
-from this point of view, I bought into the Idea of deliberate practice.
+Inspired by [robert8138], I read [Plateau of Productivity],
+which emphasizes on the need for deliberate practice.
 
 
 ## Motivation
