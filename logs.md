@@ -16,3 +16,7 @@ Worked on python exercises relating to;
 *   grabbing elements within a dictionary and creating basic
 functions.
 * In addition looked at filters and lambda expressions.
+
+04-05-2018
+---
+Numpy arrays , indexing and operations 
