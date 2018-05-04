@@ -15,4 +15,4 @@ Worked on python exercises relating to;
 *   nested Lists,
 *   grabbing elements within a dictionary and creating basic
 functions.
-In addition looked at filters and lambda expressions.
+* In addition looked at filters and lambda expressions.
