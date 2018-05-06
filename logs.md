@@ -19,4 +19,14 @@ functions.
 
 04-05-2018
 ---
-Numpy arrays , indexing and operations 
+Numpy arrays , indexing and operations
+
+05-05-2018
+---
+Pandas
+*   Series
+*   DataFrames
+*   Missing Data
+*   GroupBy
+*   Merging, Joining, Concatenating
+*   Operation | Data Input and Output
