@@ -18,10 +18,14 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 
 ## Break Down Work Into A Week-by-week Schedule
 
-* wk1 **Week 1 of May**: Start working on python Fundamentals
-- [ ]  wrap up by reviewing wk1 in a blog post
+* wk1 **Week 1 of May**:
+    -   Start working on python Fundamentals
+    -   Intro to Numpy.
+    -   Pandas Basics and data analysis
+- [x]  wrap up by reviewing wk1 in a blog post
 
 * wk2 **Week 2 of May**:
+    -   
 - [ ]  wrap up by reviewing wk2 in a blog post
 
 * wk3 **Week 3 of May**:
