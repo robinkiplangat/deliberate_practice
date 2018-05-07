@@ -30,3 +30,7 @@ Pandas
 *   GroupBy
 *   Merging, Joining, Concatenating
 *   Operation | Data Input and Output
+
+07-05-2018
+---
+Review on Panda's correlations, working on [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries).
