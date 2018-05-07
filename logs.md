@@ -33,4 +33,6 @@ Pandas
 
 07-05-2018
 ---
-Review on Panda's correlations, working on [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries).
+*   Review on Panda's correlations,
+*   working on [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries).
+*   Worked on E-Commerce data exercises
