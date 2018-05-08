@@ -125,6 +125,7 @@ Learn by doing is the loudest advice I've heard so far and am going to hone my P
 * [Another Tutorial On How To Write Pythonic Code]
 * [Pandas Cookbook]
 * [Udemy course]
+* [In-depth Matplotlib]
 
 [robert8138]:https://medium.com/@rchang
 
@@ -205,3 +206,4 @@ Learn by doing is the loudest advice I've heard so far and am going to hone my P
 [Josh Bloom's Python Computing For Data Science]:https://github.com/profjsb/python-seminar
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
 [Udemy course]:https://www.udemy.com/learning-python-for-data-analysis-and-visualization/?ccManual=&couponCode=DEAL19
+[In-depth Matplotlib]:http://www.labri.fr/perso/nrougier/teaching/matplotlib/
