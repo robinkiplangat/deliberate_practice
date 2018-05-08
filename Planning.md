@@ -27,6 +27,7 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 * wk2 **Week 2 of May**:
     - Python for Data Visualization
     - Matplotlib
+    - Seaborn
     -
 - [ ]  wrap up by reviewing wk2 in a blog post
 
@@ -63,8 +64,8 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 
 
 ## To Do's
-- [ ]  Using pandas Data Frames to solve complex tasks
-- [ ]  Use pandas to handle Excel Files
+- [x]  Using pandas Data Frames to solve complex tasks
+- [x]  Use pandas to handle Excel Files
 - [ ]  Web scraping with python
 - [ ]  Connect Python to SQL
 - [ ]  Use matplotlib and seaborn for data visualizations

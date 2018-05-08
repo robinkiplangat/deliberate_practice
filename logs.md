@@ -36,3 +36,13 @@ Pandas
 *   Review on Panda's correlations,
 *   working on [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries).
 *   Worked on E-Commerce data exercises
+
+08-05-2018
+---
+*   Matplotlib exercises
+*   Data visualization using seaborn
+    -   distplot
+    -   jointplot
+    -   pairplot
+    -   rugplot-    
+    -   kdeplot
