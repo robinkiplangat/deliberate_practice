@@ -46,3 +46,11 @@ Pandas
     -   pairplot
     -   rugplot-    
     -   kdeplot
+
+09-05-2018
+---
+*   seaborn's plots like
+    -   Matrix plots
+    -   Categorical plots
+    -   Grids
+*   Styling and colors palette
