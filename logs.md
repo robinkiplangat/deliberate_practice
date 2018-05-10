@@ -54,3 +54,8 @@ Pandas
     -   Categorical plots
     -   Grids
 *   Styling and colors palette
+
+10-05-2018
+---
+*   looked at Flask python framework and did not
+    follow up on the program today. 
