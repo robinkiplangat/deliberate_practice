@@ -22,16 +22,20 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
     -   Start working on python Fundamentals
     -   Intro to Numpy.
     -   Pandas Basics and python for data analysis
-- [x]  wrap up by reviewing wk1 in a blog post
+- [x]  wrap up by reviewing [wk1 in a blog post]
 
 * wk2 **Week 2 of May**:
     - Python for Data Visualization
     - Matplotlib
     - Seaborn
-    -
 - [ ]  wrap up by reviewing wk2 in a blog post
 
 * wk3 **Week 3 of May**:
+    -   Pandas Builtin Data Visualization
+    -   Plotly
+    -   Cufflinks
+    -   Geographical Plotting
+    -   Choropleth Maps
 - [ ]  wrap up by reviewing wk3 in a blog post
 
 * wk4 **Week 4 of May**:
@@ -83,3 +87,4 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 
 [Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html
 [Pandas Plotting Documentation]:http://pandas.pydata.org/pandas-docs/version/0.18.1/visualization.html
+[wk1 in a blog post]:#
