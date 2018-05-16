@@ -60,7 +60,12 @@ Pandas
 *   looked at Flask python framework and did not
     follow up on the program today.
 
-14-04-2018
+14-05-2018
 ---
 *   Took a review on seaborn plots and summed-up
     with plotting exercise.
+
+15-05-2018
+---
+*   Did a blog review on week one elements:
+    -   python | Numpy | Pandas 
