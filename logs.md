@@ -68,4 +68,11 @@ Pandas
 15-05-2018
 ---
 *   Did a blog review on week one elements:
-    -   python | Numpy | Pandas 
+    -   python | Numpy | Pandas
+
+17-05-2018
+---
+*   plotly and cufflinks visualizations
+    -   scatter | bar | box
+    -   spread | ratio | heatmap
+    -   surface | histogram | bubble
