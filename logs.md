@@ -76,3 +76,11 @@ Pandas
     -   scatter | bar | box
     -   spread | ratio | heatmap
     -   surface | histogram | bubble
+
+21-05-2018
+---
+*   taken sometime to write the posts.
+I have realised that without a set time
+for working on my own , it's so easy to get sucked
+into a load of other obligations.
+*   Done with Week Three blog.
