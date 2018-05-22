@@ -46,7 +46,7 @@ Learn by doing is the loudest advice I've heard so far and am going to hone my P
 
 ## Project Goals
 
-* **Outcome**: I want to take on one big Python project (ML, Data Viz ...etc).
+* **Outcome**: I want to take on one Python project (ML, Data Viz ...etc). by July 2018
 
 * **Curriculum**: I want do everything that I can to go through all the basic materials in Pandas/Matplotlib.
     * Expose myself to functional programming,
