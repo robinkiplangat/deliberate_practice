@@ -28,17 +28,17 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
     - Python for Data Visualization
     - Matplotlib
     - Seaborn
-- [ ]  wrap up by reviewing wk2 in a blog post
+- [x]  wrap up by reviewing [wk2 in a blog post]
 
 * wk3 **Week 3 of May**:
-    -   Pandas Builtin Data Visualization
     -   Plotly
     -   Cufflinks
     -   Geographical Plotting
     -   Choropleth Maps
-- [ ]  wrap up by reviewing wk3 in a blog post
+- [x]  wrap up by reviewing [wk3 in a blog post]
 
 * wk4 **Week 4 of May**:
+    -   📰 Capstone Project One
 - [ ]  wrap up by reviewing wk4 in a blog post
 
 * wk5 **Week 1 of June**:
