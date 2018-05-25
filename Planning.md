@@ -38,7 +38,9 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 - [x]  wrap up by reviewing [wk3 in a blog post]
 
 * wk4 **Week 4 of May**:
-    -   📰 Capstone Project One
+    -   📰 Capstone Project (911)
+    -   📰 Capstone Project (Finance)
+
 - [ ]  wrap up by reviewing wk4 in a blog post
 
 * wk5 **Week 1 of June**:
