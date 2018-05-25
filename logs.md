@@ -84,3 +84,8 @@ I have realised that without a set time
 for working on my own , it's so easy to get sucked
 into a load of other obligations.
 *   Done with Week Three blog.
+
+23/24-05-2018
+---
+* Focussed on the 911-Calls project
+that took a while to complete.
