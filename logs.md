@@ -89,3 +89,9 @@ into a load of other obligations.
 ---
 * Focussed on the 911-Calls project
 that took a while to complete.
+
+28/24-05-2018
+---
+*   It's getting tougher to slot in time for time to study.
+Purpose to set a block where I'll be able to work at it uninterrupted
+☑️  just Summed up a summary of the first Capstone project(911-calls).

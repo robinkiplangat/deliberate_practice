@@ -22,28 +22,30 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
     -   Start working on python Fundamentals
     -   Intro to Numpy.
     -   Pandas Basics and python for data analysis
-- [x]  wrap up by reviewing [wk1 in a blog post]
+- ✅  wrap up by reviewing [wk1 in a blog post]
 
 * wk2 **Week 2 of May**:
     - Python for Data Visualization
     - Matplotlib
     - Seaborn
-- [x]  wrap up by reviewing [wk2 in a blog post]
+- [✅  wrap up by reviewing [wk2 in a blog post]
 
 * wk3 **Week 3 of May**:
     -   Plotly
     -   Cufflinks
     -   Geographical Plotting
     -   Choropleth Maps
-- [x]  wrap up by reviewing [wk3 in a blog post]
+- ✅  wrap up by reviewing [wk3 in a blog post]
 
 * wk4 **Week 4 of May**:
     -   📰 Capstone Project (911)
     -   📰 Capstone Project (Finance)
 
-- [ ]  wrap up by reviewing wk4 in a blog post
+- ✅  wrap up by reviewing wk4 in a blog post
 
 * wk5 **Week 1 of June**:
+    -   Intro to Machine Learning
+    -   Machine Learning with Python.
 - [ ]  wrap up by reviewing wk5 in a blog post
 
 * wk6 **Week 2 of June**:
