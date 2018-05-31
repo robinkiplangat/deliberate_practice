@@ -95,3 +95,7 @@ that took a while to complete.
 *   It's getting tougher to slot in time for time to study.
 Purpose to set a block where I'll be able to work at it uninterrupted
 ☑️  just Summed up a summary of the first Capstone project(911-calls).
+
+30/31-05-2018
+* Intro to Linear Regression 
+    - Took on Boston Dataset Exploration
