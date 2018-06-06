@@ -45,8 +45,8 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 
 * wk5 **Week 1 of June**:
     -   Intro to Machine Learning
-    -   Machine Learning with Python.
-- [ ]  wrap up by reviewing wk5 in a blog post
+    -   Linear Regression.
+- ✅ wrap up by reviewing wk5 in a blog post
 
 * wk6 **Week 2 of June**:
 - [ ]  wrap up by reviewing wk6 in a blog post
