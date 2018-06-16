@@ -54,6 +54,9 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 - [ ]  wrap up by reviewing wk6 in a blog post
 
 * wk7 **Week 3 of June**:
+    -   K Nearest Neighbors
+    -   19 Decision Trees
+    -   Random Forests
 - [ ]  wrap up by reviewing wk7 in a blog post
 
 * wk8 **Week 4 of June**:

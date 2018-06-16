@@ -97,5 +97,10 @@ Purpose to set a block where I'll be able to work at it uninterrupted
 ☑️  just Summed up a summary of the first Capstone project(911-calls).
 
 30/31-05-2018
-* Intro to Linear Regression 
+---
+* Intro to Linear Regression
     - Took on Boston Dataset Exploration
+
+16/06/2018
+---
+* Logistic Regression
