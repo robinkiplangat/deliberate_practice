@@ -49,6 +49,8 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 - ✅ wrap up by reviewing wk5 in a blog post
 
 * wk6 **Week 2 of June**:
+    -   Cross Validation Bias  
+    -   Logistic Regression
 - [ ]  wrap up by reviewing wk6 in a blog post
 
 * wk7 **Week 3 of June**:
