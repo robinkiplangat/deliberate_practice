@@ -51,7 +51,7 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 * wk6 **Week 2 of June**:
     -   Cross Validation Bias  
     -   Logistic Regression
-- [ ]  wrap up by reviewing wk6 in a blog post
+- ✅  wrap up by reviewing wk6 in a blog post
 
 * wk7 **Week 3 of June**:
     -   K Nearest Neighbors
@@ -60,6 +60,7 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 - [ ]  wrap up by reviewing wk7 in a blog post
 
 * wk8 **Week 4 of June**:
+    -   Support Vector Machines
 - [ ]  wrap up by reviewing wk8 in a blog post
 
 * wk9 **Week 1 of July**:
