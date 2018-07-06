@@ -55,15 +55,16 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 
 * wk7 **Week 3 of June**:
     -   K Nearest Neighbors
-    -   19 Decision Trees
+    -   Decision Trees
     -   Random Forests
-- [ ]  wrap up by reviewing wk7 in a blog post
+- ✅  wrap up by reviewing wk7 in a blog post
 
 * wk8 **Week 4 of June**:
     -   Support Vector Machines
-- [ ]  wrap up by reviewing wk8 in a blog post
+- ✅  wrap up by reviewing wk8 in a blog post
 
 * wk9 **Week 1 of July**:
+    -   Natural Language Processing
 - [ ]  wrap up by reviewing wk9 in a blog post
 
 * wk10 **Week 2 of July**:
@@ -80,19 +81,19 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 ## To Do's
 - [x]  Using pandas Data Frames to solve complex tasks
 - [x]  Use pandas to handle Excel Files
-- [ ]  Web scraping with python
+- [X]  Web scraping with python
 - [ ]  Connect Python to SQL
-- [ ]  Use matplotlib and seaborn for data visualizations
-- [ ]  Use plotly for interactive visualizations
-- [ ]  Machine Learning with SciKit Learn
-- [ ]  Linear Regression
-- [ ]  K Nearest Neighbors
+- [X]  Use matplotlib and seaborn for data visualizations
+- [X]  Use plotly for interactive visualizations
+- [X]  Machine Learning with SciKit Learn
+- [X]  Linear Regression
+- [X]  K Nearest Neighbors
 - [ ]  K Means Clustering
-- [ ]  Decision Trees
-- [ ]  Random Forests
+- [X]  Decision Trees
+- [X]  Random Forests
 - [ ]  Natural Language Processing
 - [ ]  Neural Nets and Deep Learning
-- [ ]  Support Vector Machines
+- [X]  Support Vector Machines
 
 
 [Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html
