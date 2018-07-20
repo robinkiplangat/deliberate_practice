@@ -84,16 +84,16 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 - [x]  Using pandas Data Frames to solve complex tasks
 - [x]  Use pandas to handle Excel Files
 - [X]  Web scraping with python
-- [ ]  Connect Python to SQL
+- [x]  Connect Python to SQL
 - [X]  Use matplotlib and seaborn for data visualizations
 - [X]  Use plotly for interactive visualizations
 - [X]  Machine Learning with SciKit Learn
 - [X]  Linear Regression
 - [X]  K Nearest Neighbors
-- [ ]  K Means Clustering
+- [x]  K Means Clustering
 - [X]  Decision Trees
 - [X]  Random Forests
-- [ ]  Natural Language Processing
+- [x]  Natural Language Processing
 - [ ]  Neural Nets and Deep Learning
 - [X]  Support Vector Machines
 
