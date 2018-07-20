@@ -65,12 +65,14 @@ I will give myself the whole May to July 2018 to work on this goal. It seems lik
 
 * wk9 **Week 1 of July**:
     -   Natural Language Processing
-- [ ]  wrap up by reviewing wk9 in a blog post
+- ✅  wrap up by reviewing wk9 in a blog post
 
 * wk10 **Week 2 of July**:
-- [ ]  wrap up by reviewing wk10 in a blog post
+    -   Principle Component Analysis
+- ✅  wrap up by reviewing wk10 in a blog post
 
 * wk11 **Week 3 of July**:
+    -   Recommender systems
 - [ ]  wrap up by reviewing wk11 in a blog post
 
 * wk12 **Week 4 of July**:
