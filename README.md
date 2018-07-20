@@ -1,15 +1,15 @@
 # Deliberate Practice
 
-Inspired by [robert8138], I read [Plateau of Productivity],
-which emphasizes on the need for deliberate practice.
+Inspired by [robert8138]'s post on [Plateau of Productivity],
+in which he emphasizes on the need for deliberate practice. I took up the challenge
+and this is my resolute.
 
 
 ## Motivation
 
-I have a pretty good working knowledge of the python language and need not say that there are obviously
-a lot more things that I need to learn.
+I have a pretty good working knowledge of the python language and need not say that there is obviously a lot more things that I need to learn.
 
-My major appeal of Python is the Data Analysis part as the beauty of using Python for data work is that you have a higher chance to see how data plays a role within the whole integrated technology stack.
+My major appeal of Python falls on  Data Analysis capabilities within the whole integrated technology stack.
 
 Knowing Python is likely to make me a better **end-to-end** Data Scientist and better Software Engineer.
 
@@ -32,9 +32,9 @@ Learn by doing is the loudest advice I've heard so far and am going to hone my P
 
 * **Targeted Practice**: Force myself to work
     *   Maximize my time practicing Python for Data Analysis,
-    *   Data visualization, Modeling, or contribute Python Data Analysis packages.
+    *   Data visualization, Modeling, or contribute Python Data Analysis packages. 😜
 
-* **Immediate Feedbacks**: Create a culture of code reviews.
+* **Immediate Feedbacks**: Create a culture of code reviews. 👓
     *   Find constant opportunities to get feedback as much as possible.
 
 ## Performance Goals
@@ -67,19 +67,19 @@ Learn by doing is the loudest advice I've heard so far and am going to hone my P
 
 * **Writing Pythonic Code**
     * Guidelines For Writing Pythonic Code
-        * Function: Use *args and **kwargs to accept arbitrary arguments in function definition
-        * Tuples: effective unpacking, use _ for placeholder, swap values without tmp variables
-        * List/Dict/Set: list comprehension, dict comprehension. dict.get, set comprehension
-        * Strings: use .format, use .join
-        * Classes: use __ __ in function and variable name to mark private variables
-        * Generator: use generator to lazily load a infinite sequence
-        * Modules: writing modules for encapsulation
-        * Formatting: pep8 standards
-        * Executable script: __name__ = __main__
-        * Import: The right way to do imports
-    * [Writing Idiomatic Python - Jeff Knupp]
-    * [Stanford CS 41: Idiomatic Python]
-    * [Another Tutorial On How To Write Pythonic Code]
+        *   Function: Use *args and **kwargs to accept arbitrary arguments in function definition
+        *   Tuples: effective unpacking, use _ for placeholder, swap values without tmp variables
+        *   List/Dict/Set: list comprehension, dict comprehension. dict.get, set comprehension
+        *   Strings: use .format, use .join
+        *   Classes: use __ __ in function and variable name to mark private variables
+        *   Generator: use generator to lazily load a infinite sequence
+        *   Modules: writing modules for encapsulation
+        *   Formatting: pep8 standards
+        *   Executable script: __name__ = __main__
+        *   Import: The right way to do imports
+    *  [Writing Idiomatic Python - Jeff Knupp]
+    *  [Stanford CS 41: Idiomatic Python]
+    *  [Another Tutorial On How To Write Pythonic Code]
 
 * **iPython Notebook**
 
